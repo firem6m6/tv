@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 group-title="香港电视" ,翡翠台_1
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="香港电视" ,翡翠台_2
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="香港电视" ,无线新闻台_1
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+
 #EXTINF:-1 group-title="测试频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
